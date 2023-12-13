@@ -1,6 +1,6 @@
 # Opioid-prescribing-Rate-in-USA 
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnews%2Fpress-releases%2Fhighest-opioid-prescribing-rates-in-u-s-among-congressional-districts-in-southeast-appalachia-and-rural-west%2F&psig=AOvVaw3rb90-_7OfhUbRLtqtrfFy&ust=1702582991816000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjPl9WWjYMDFQAAAAAdAAAAABAD)
+![image](https://www.hsph.harvard.edu/news/wp-content/uploads/sites/21/2018/07/iStock-896469402.jpg)
 
 **Project: Healthcare Analytics for Opioid Abuse Resource Allocation**
 
